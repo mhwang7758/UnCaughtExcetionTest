@@ -3,7 +3,7 @@ use the FireCrasher to note the unCaughtExcetion into the file.
 
 本Demo相关博客地址
 
-[捕获App UncaughtExecepiton并将其保存到本地文件中]: http://blog.csdn.net/u013564742/article/details/76324550
+[捕获App UncaughtExecepiton并将其保存到本地文件中]: <http://blog.csdn.net/u013564742/article/details/76324550> "mhwang7758"
 
 使用FireCrasher用来捕捉记录未捕获的异常，并将异常保存到文件的例子。
 
